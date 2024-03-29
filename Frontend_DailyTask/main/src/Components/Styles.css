@@ -1,0 +1,19 @@
+.button-link {
+    background-color: #FEFDED;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid #dbd7d5; /* Button border color */
+    cursor: pointer;
+    width: 90px;
+    padding: 6px 6px 6px 6px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .button-link:hover {
+    background-color: #F7EEDD;
+  }
+
+  .button-link:active {
+    background-color: #A8CD9F; 
+  }

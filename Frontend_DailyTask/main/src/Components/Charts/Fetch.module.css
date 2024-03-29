@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+      .rechartsWrapper {
+        margin: auto;
+      }
+}
+@media (max-width: 480px) {
+      .rechartsWrapper {
+        margin: auto
+      }
+}
